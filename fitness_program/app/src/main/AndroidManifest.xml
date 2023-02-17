@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.whitehacker.fitness_program">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.Design.NoActionBar">
+        <activity
+            android:name=".hardwed"
+            android:exported="false" />
+        <activity
+            android:name=".tueseasy"
+            android:exported="false" />
+        <activity
+            android:name=".mainhard"
+            android:exported="false" />
+        <activity
+            android:name=".hardsatur"
+            android:exported="false" />
+        <activity
+            android:name=".hardfri"
+            android:exported="false" />
+        <activity
+            android:name=".hardtues"
+            android:exported="false" />
+        <activity
+            android:name=".hardmon"
+            android:exported="false" />
+        <activity
+            android:name=".midsatur"
+            android:exported="false" />
+        <activity
+            android:name=".midwen"
+            android:exported="false" />
+        <activity
+            android:name=".tuesmid"
+            android:exported="false" />
+        <activity
+            android:name=".midtrus"
+            android:exported="false" />
+        <activity
+            android:name=".midmon"
+            android:exported="false" />
+        <activity
+            android:name=".easysatur"
+            android:exported="false" />
+        <activity
+            android:name=".frieasy"
+            android:exported="false" />
+        <activity
+            android:name=".thureasy"
+            android:exported="false" />
+        <activity
+            android:name=".wedeasy"
+            android:exported="false" />
+        <activity
+            android:name=".mondayeasy"
+            android:exported="false" />
+        <activity
+            android:name=".mainmedium"
+            android:exported="false" />
+        <activity
+            android:name=".maineasy"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

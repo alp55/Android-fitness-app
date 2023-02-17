@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_easysatur.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_frieasy.xml" value="0.3625" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_hardfri.xml" value="0.3625" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_hardmain.xml" value="0.1" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_hardmon.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_hardsatur.xml" value="0.26" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_hardtues.xml" value="0.2359375" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_hardwed.xml" value="0.3625" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_hardwen.xml" value="0.3625" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_main2.xml" value="0.3625" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_maineasy.xml" value="0.16" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_mainhard.xml" value="0.33" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_mainmedium.xml" value="0.2" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_midmon.xml" value="0.3625" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_midsatur.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_midtrus.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_midwen.xml" value="0.20208333333333334" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_mondayeasy.xml" value="0.1" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_teuseasy.xml" value="0.1" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_teusesay.xml" value="0.1" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_thureasy.xml" value="0.1" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_tueseasy.xml" value="0.3625" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_tuesmid.xml" value="0.26458333333333334" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/activity_wedeasy.xml" value="0.1" />
+        <entry key="..\:/Users/Alperen/Desktop/Dosyam/Andiroid/fitness_program/app/src/main/res/layout/content_hardwen.xml" value="0.3625" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
